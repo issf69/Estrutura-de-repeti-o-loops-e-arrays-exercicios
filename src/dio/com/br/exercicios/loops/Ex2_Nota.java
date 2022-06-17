@@ -23,3 +23,16 @@ public class Ex2_Nota {
         }
     }
 }
+##
+C:\Users\Irene\.jdks\openjdk-18.0.1.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\lib\idea_rt.jar=51145:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Irene\Documents\Estrutura de repetição loops-e-arrays\loops-e-arrays-xercicios\out\production\loops-e-arrays-xercicios" dio.com.br.exercicios.loops.Ex2_Nota
+Nota: 
+
+-12
+Nota Invalida! Digite novamente: 
+12
+Nota Invalida! Digite novamente: 
+13
+Nota Invalida! Digite novamente: 
+5
+
+Process finished with exit code 0
