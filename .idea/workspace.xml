@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48b87a56-d7f7-4f23-8378-510ccdd07ed7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops-e-arrays-xercicios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/com/br/exercicios/loops/Ex1_NomeEIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/com/br/exercicios/loops/comentado.java" afterDir="false" />
+    <list default="true" id="48b87a56-d7f7-4f23-8378-510ccdd07ed7" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/dio/com/br/exercicios/loops/Ex2_Nota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/com/br/exercicios/loops/Ex3_MaiorEMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/com/br/exercicios/loops/Ex4_ParEImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/com/br/exercicios/loops/Ex5_Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/com/br/exercicios/loops/Ex6_Fatorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,13 +20,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Main" />
         <option value="package-info" />
         <option value="Class" />
+        <option value="Main" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -47,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ex2_Nota">
     <configuration name="Ex1_NomeEIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dio.com.br.exercicios.loops.Ex1_NomeEIdade" />
       <module name="loops-e-arrays-xercicios" />
@@ -61,8 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex2_Nota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.com.br.exercicios.loops.Ex2_Nota" />
+      <module name="loops-e-arrays-xercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dio.com.br.exercicios.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex2_Nota" />
         <item itemvalue="Application.Ex1_NomeEIdade" />
       </list>
     </recent_temporary>
@@ -76,6 +93,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655458770626</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1655466528436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655466528436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
