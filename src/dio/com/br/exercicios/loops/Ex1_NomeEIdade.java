@@ -27,3 +27,29 @@ public class Ex1_NomeEIdade {
     }
 
 }
+
+
+##
+C:\Users\Irene\.jdks\openjdk-18.0.1.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\lib\idea_rt.jar=51180:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Irene\Documents\Estrutura de repetição loops-e-arrays\loops-e-arrays-xercicios\out\production\loops-e-arrays-xercicios" dio.com.br.exercicios.loops.Ex1_NomeEIdade
+Nome: 
+
+camila
+Idade:
+27
+Nome: 
+joao
+Idade:
+65
+Nome: 
+vera
+Idade:
+20
+Nome: 
+marlen
+Idade:
+13
+Nome: 
+0
+continua aqui ...
+
+Process finished with exit code 0
