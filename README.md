@@ -1,10 +1,10 @@
 # Estrutura-de-repeti-o-loops-e-arrays-exercicios
-Ex1_NomeEIdade
-Ex2_Nota
-Ex3 _MaiorEMedia
-EX4_ParEImpar
-Ex5_Tabuada
-Ex6_Fatorial
+  Ex1_NomeEIdade
+  Ex2_Nota
+  Ex3 _MaiorEMedia
+  EX4_ParEImpar
+  Ex5_Tabuada
+  Ex6_Fatorial
 
 ##
 package dio.com.br.exercicios.loops;
